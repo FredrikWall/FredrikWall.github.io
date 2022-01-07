@@ -1,1 +1,1 @@
-# fredrikwall.gihub.io
+# FredrikWall.github.io
