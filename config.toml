@@ -1,0 +1,5 @@
+baseURL = 'https://fredrikwall.github.io/'
+languageCode = 'en-us'
+title = 'Fredrik Wall'
+theme = "ananke"
+publishDir = "docs"
