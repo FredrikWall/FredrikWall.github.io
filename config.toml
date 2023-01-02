@@ -1,5 +1,5 @@
 baseURL = 'https://fredrikwall.github.io/'
 languageCode = 'en-us'
 title = 'Fredrik Wall'
-theme        = "hello-friend-ng"
+theme = "hello-friend-ng"
 publishDir = "docs"
